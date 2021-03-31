@@ -1,0 +1,166 @@
+Week 1 Quiz
+LATEST SUBMISSION GRADE
+100%
+1.
+Question 1
+What is an example of a Univariate time series?
+
+1 / 1 point
+
+Hour by hour temperature (yes)
+
+
+Hour by hour weather   
+
+
+Baseball scores
+
+
+Fashion items
+
+Correct
+
+Question 2
+What is an example of a Multivariate time series?
+
+1 / 1 point
+
+Hour by hour weather (yes)
+
+
+Baseball scores
+
+
+Hour by hour temperature 
+
+
+Fashion items
+
+Correct
+
+Question 3
+What is imputed data?
+
+
+
+1 / 1 point
+
+A projection of unknown (usually past or missing) data (yes)
+
+
+Data that has been withheld for various reasons
+
+
+A bad prediction of future data
+
+
+A good prediction of future data
+
+Correct
+
+Question 4
+A sound wave is a good example of time series data
+
+
+
+1 / 1 point
+
+False (yes)
+
+
+True
+
+Correct
+
+Question 5
+What is Seasonality?
+
+1 / 1 point
+
+Data aligning to the 4 seasons of the calendar
+
+
+Data that is only available at certain times of the year
+
+
+Weather data
+
+
+A regular change in shape of the data (yes)
+
+Correct
+
+Question 6
+What is a trend?
+
+1 / 1 point
+
+An overall consistent upward direction for data
+
+
+An overall consistent downward direction for data
+
+
+An overall consistent flat direction for data
+
+
+An overall direction for data regardless of direction (yes)
+
+Correct
+
+Question 7
+In the context of time series, what is noise?
+
+
+
+1 / 1 point
+
+Data that doesn’t have a trend
+
+
+Sound waves forming a time series
+
+
+Data that doesn’t have seasonality
+
+
+Unpredictable changes in time series data (yes)
+
+Correct
+
+Question 8
+What is autocorrelation?
+
+1 / 1 point
+
+Data that automatically lines up in trends
+
+
+Data that doesn’t have noise
+
+
+Data that follows a predictable shape, even if the scale is different (yes)
+
+
+Data that automatically lines up seasonally
+
+Correct
+
+Question 9
+What is a non-stationary time series?
+
+1 / 1 point
+
+One that moves seasonally
+
+
+One that has a constructive event forming trend and seasonality
+
+
+One that has a disruptive event breaking trend and seasonality (yes)
+
+
+One that is consistent across all seasons
+
+Correct
+
