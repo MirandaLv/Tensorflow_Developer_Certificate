@@ -16,7 +16,6 @@ callbacks = myCallback()
 
 
 mnist = tf.keras.datasets.fashion_mnist
-
 (training_images, training_labels), (testing_images, testing_labels) = mnist.load_data()
 
 """
@@ -43,7 +42,11 @@ model.compile(optimizer=tf.optimizers.Adam(),
               metrics=['accuracy'])
 model.fit(training_images, training_labels, epochs=10, callbacks=[callbacks])
 
-model.evaluate(testing_images, testing_labels)
+test_loss = model.evaluate(testing_images, testing_labels)
+
+
+
+
 
 
 
