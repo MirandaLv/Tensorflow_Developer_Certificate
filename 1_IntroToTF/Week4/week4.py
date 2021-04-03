@@ -3,6 +3,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import tensorflow as tf
 from tf.keras.layers import Conv2D, MaxPooling2D, Dense, Flatten
 from tensorflow.keras.optimizers import RMSprop
+# Understand the losses: https://gombru.github.io/2018/05/23/cross_entropy_loss/
 
 """
 train_dir -> folder1/folder2
